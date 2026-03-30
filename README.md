@@ -15,3 +15,4 @@ Here is the day-by-day record of my progress:
 | :---: | :--- | :---: | :--- |
 | **01** | Linear Regression | `Machine Learning` | [📁 View Folder](./day%201) |
 | **02** | Logistic Regression | `Machine Learning` | [📁 View Folder](./day%202) |
+| **03** | K-nearest Neighbor | `Machine Learning` | [📁 View Folder](./day%203) |
