@@ -14,3 +14,4 @@ Here is the day-by-day record of my progress:
 | Day | Topic | Category | Link |
 | :---: | :--- | :---: | :--- |
 | **01** | Linear Regression | `Machine Learning` | [📁 View Folder](./day%201) |
+| **02** | Logistic Regression | `Machine Learning` | [📁 View Folder](./day%202) |
