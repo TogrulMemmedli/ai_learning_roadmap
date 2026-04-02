@@ -18,3 +18,4 @@ Here is the day-by-day record of my progress:
 | **03** | K-nearest Neighbor | `Machine Learning` | [📁 View Folder](./day%203) |
 | **04** | Decision Tree | `Machine Learning` | [📁 View Folder](./day%204) |
 | **05** | Random Forest | `Machine Learning` | [📁 View Folder](./day%205) |
+| **06** | Support Vector Machine | `Machine Learning` | [📁 View Folder](./day%206) |
