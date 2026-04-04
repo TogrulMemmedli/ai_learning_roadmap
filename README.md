@@ -20,3 +20,4 @@ Here is the day-by-day record of my progress:
 | **05** | Random Forest | `Machine Learning` | [📁 View Folder](./day%205) |
 | **06** | Support Vector Machine | `Machine Learning` | [📁 View Folder](./day%206) |
 | **07** | ADABoost | `Machine Learning` | [📁 View Folder](./day%207) |
+| **08** | XGBoost | `Machine Learning` | [📁 View Folder](./day%208) |
