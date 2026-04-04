@@ -19,3 +19,4 @@ Here is the day-by-day record of my progress:
 | **04** | Decision Tree | `Machine Learning` | [📁 View Folder](./day%204) |
 | **05** | Random Forest | `Machine Learning` | [📁 View Folder](./day%205) |
 | **06** | Support Vector Machine | `Machine Learning` | [📁 View Folder](./day%206) |
+| **07** | ADABoost | `Machine Learning` | [📁 View Folder](./day%207) |
